@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension version="3.0" type="template" client="site" method="upgrade">
+    <name>pwniez</name>
+    <author>Branko Wilhelm</author>
+    <creationDate>Apr 2013</creationDate>
+    <copyright>(C) 2013 Branko Wilhelm</copyright>
+    <license>GNU General Public License v3</license>
+    <authorEmail>bw@z-index.net</authorEmail>
+    <authorUrl>www.z-index.net</authorUrl>
+	<version>3.0</version>
+    <description></description>
+	<files>
+		<filename>index.php</filename>
+		<folder>css</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+	</files>
+	<positions>                        
+		<position>header</position>         
+		<position>footer</position>         
+		<position>debug</position>         
+	</positions>
+</extension>
