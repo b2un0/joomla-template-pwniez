@@ -3,18 +3,20 @@
     <name>pwniez</name>
     <author>Branko Wilhelm</author>
     <creationDate>Apr 2013</creationDate>
-    <copyright>(C) 2013 Branko Wilhelm</copyright>
-    <license>GNU General Public License v3</license>
-    <authorEmail>bw@z-index.net</authorEmail>
+    <copyright>Copyright (C) 2013 - 2014 Branko Wilhelm. All rights reserved.</copyright>
+    <license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+    <authorEmail>branko.wilhelm@gmail.com</authorEmail>
     <authorUrl>www.z-index.net</authorUrl>
+    <version>@REVISION@</version>
 	<version>3.0</version>
-    <description></description>
+    <description>pwniez template</description>
 	<files>
 		<filename>index.php</filename>
 		<folder>css</folder>
 		<folder>images</folder>
 		<folder>js</folder>
 	</files>
+  <scriptfile>script.installer.php</scriptfile>
 	<positions>                        
 		<position>header</position>         
 		<position>footer</position>         

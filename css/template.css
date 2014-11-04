@@ -110,8 +110,3 @@ a:hover {
 	display: inline;
 	padding-left: 25px;
 }
-
-/* - overrides - */
-.mod_wow_armory_guild_news img, .mod_wow_latest_guild_achievements img {
-	display: inline;
-}
