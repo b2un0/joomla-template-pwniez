@@ -11,6 +11,7 @@
     <description>pwniez template</description>
 	<files>
 		<filename>index.php</filename>
+    <filename>favicon.ico</filename>
 		<folder>css</folder>
 		<folder>images</folder>
 		<folder>js</folder>

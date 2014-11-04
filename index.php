@@ -20,7 +20,6 @@ JFactory::getDocument()->addScript('templates/'.$this->template.'/js/jquery.bxsl
 JFactory::getDocument()->addScript('templates/'.$this->template.'/js/jquery.fitvids.js');
 JFactory::getDocument()->addScriptDeclaration('jQuery(document).ready(function(){jQuery(\'#wrapper .content .blog\').bxSlider(' . json_encode($bxslider, JSON_FORCE_OBJECT) . ');});');
 JFactory::getDocument()->setMetaData('viewport', 'width=950, initial-scale=1');
-
 ?>
 <!DOCTYPE html>
 <html>
