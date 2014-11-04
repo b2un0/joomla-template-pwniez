@@ -11,12 +11,15 @@
     <description>pwniez template</description>
 	<files>
 		<filename>index.php</filename>
-    <filename>favicon.ico</filename>
+        <filename>favicon.ico</filename>
 		<folder>css</folder>
 		<folder>images</folder>
 		<folder>js</folder>
 	</files>
-  <scriptfile>script.installer.php</scriptfile>
+    <scriptfile>script.installer.php</scriptfile>
+	<updateservers>
+        <server type="collection" priority="1" name="z-index development">http://www.z-index.net/en/extensions.xml</server>
+    </updateservers>
 	<positions>                        
 		<position>header</position>         
 		<position>footer</position>         
