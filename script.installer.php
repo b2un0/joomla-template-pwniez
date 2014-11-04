@@ -9,7 +9,7 @@
 
 defined('_JEXEC') or die;
 
-class tplPwniezInstallerScript
+class Tpl_PwniezInstallerScript
 {
   private $required = 3;
 
